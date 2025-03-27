@@ -1,19 +1,27 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: #c2bfbf;
-    text-align: center;
     margin: 0;
+    display: flex;
+    background-color: #f0f2f5;
 }
 
+header {
+    background: #2c2929;
+    color: white;
+    padding: 10px 0;
+}
 
 main {
-    margin: 10px;
-    padding: 30px;
-    background: rgba(250, 247, 247, 0);
+    margin: 20px;
+    padding: 20px;
+    background: rgb(255, 255, 255);
     border-radius: 5px;
-    box-shadow: 0 0 10px rgb(255, 254, 254);
+    box-shadow: 0 4px 8px rgb(192, 191, 191);
     width: 70%;
-    margin: auto;
+    margin: auto 50px;
+    max-width: 400px;
+    border: 1px #ccc;
+
 }
 
 form {
@@ -22,30 +30,39 @@ form {
     gap: 10px;
 }
 
-input, password {
+input{
     padding: 8px;
-    width: 100%;
-    border: 1px solid #ccc;
+    width: 40%;
+    border: 1px solid #a1a1a1;
     border-radius: 4px;
-}
-
-button {
-    background: #047942;
-    color: white;
-    padding: 10px;
-    border: none;
-    cursor: pointer;
+    margin: 0 auto;
 }
 
 p {
     font-weight: bold;
-    color: rgb(0, 0, 0);
+    color: rgb(2, 2, 2);
+    text-align: center;
 }
 
 h2 {
     color: #000000;
+    text-align: center;
 }
 
-label, for {
+label {
     color: rgb(0, 0, 0) ;
+    text-align: center;
+}
+
+  button {
+    background: #04c279;
+    color: white;
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+    border-radius: 10px;
+    border: 1px;
+    padding: 8px;
+    width: 35%;
+    margin: 0 auto;
 }

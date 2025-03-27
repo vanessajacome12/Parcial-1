@@ -1,0 +1,14 @@
+proyecto-web/
+│
+├── index.html           # Página de Login
+├── register.html        # Página de Registro
+├── welcome.html         # Página de Bienvenida
+├── styles.css           # Archivo de estilos
+├── README.md            # Descripción del proyecto
+
+
+
+actua como un diseñador web
+
+
+resuelve el siguiente ejerscico:
