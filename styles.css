@@ -46,6 +46,6 @@ h2 {
     color: #000000;
 }
 
-label {
+label, for {
     color: rgb(0, 0, 0) ;
 }
