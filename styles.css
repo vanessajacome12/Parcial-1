@@ -50,7 +50,7 @@ input, textarea {
 }
 
 button {
-    background: #7ea2cc;
+    background: #0e6130;
     color: white;
     padding: 10px;
     border: none;
@@ -75,7 +75,7 @@ li {
 }
 
 label {
-    color: rgb(206, 16, 104) ;
+    color: rgb(0, 0, 0) ;
 }
 
 footer {
