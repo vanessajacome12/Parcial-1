@@ -1,6 +1,6 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: #f4f4f4;
+    background-color: #c2bfbf;
     text-align: center;
     margin: 0;
 }
@@ -39,7 +39,7 @@ button {
 
 p {
     font-weight: bold;
-    color: rgb(239, 239, 241);
+    color: rgb(0, 0, 0);
 }
 
 h2 {
