@@ -6,24 +6,9 @@ body {
 }
 
 header {
-    background: #2c2929;
-    color: white;
+    background: #ffffff;
+    color: rgb(0, 0, 0);
     padding: 10px 0;
-}
-
-nav ul {
-    list-style: none;
-    padding: 0;
-}
-
-nav ul li {
-    display: inline;
-    margin: 0 15px;
-}
-
-nav ul li a {
-    color: rgb(206, 16, 104);
-    text-decoration: none;
 }
 
 main {
@@ -42,7 +27,7 @@ form {
     gap: 10px;
 }
 
-input, textarea {
+input, password {
     padding: 8px;
     width: 100%;
     border: 1px solid #ccc;
@@ -50,15 +35,11 @@ input, textarea {
 }
 
 button {
-    background: #0e6130;
+    background: #7ea2cc;
     color: white;
     padding: 10px;
     border: none;
     cursor: pointer;
-}
-
-button:hover {
-    background: #eca3d0;
 }
 
 p {
@@ -67,20 +48,9 @@ p {
 }
 
 h2 {
-    color: #30a2e4;
-}
-
-li {
-    color: #f4f4f4;
+    color: #000000;
 }
 
 label {
     color: rgb(0, 0, 0) ;
-}
-
-footer {
-   height: 80px;
-   position: absolute;
-   bottom: 0;
-   width: 100%;
 }
